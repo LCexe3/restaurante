@@ -13,13 +13,18 @@ body {
 
 /* Para compensar o menu fixo */
 .pagina-interna {
+<<<<<<< HEAD
     padding-top: 130px;
+=======
+    padding-top: 120px;
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
     min-height: 80vh;
 }
 
 /* Navbar */
 .navbar {
     border-bottom: 1px solid #c9a646;
+<<<<<<< HEAD
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -45,6 +50,18 @@ body {
     color: #f1f1f1 !important;
     margin-left: 10px;
     font-weight: 500;
+=======
+}
+
+.navbar-brand {
+    color: #d4af37 !important;
+    letter-spacing: 1px;
+}
+
+.nav-link {
+    color: #f1f1f1 !important;
+    margin-left: 10px;
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
 }
 
 .nav-link:hover,
@@ -54,7 +71,11 @@ body {
 
 /* Carrossel */
 .carousel {
+<<<<<<< HEAD
     margin-top: 88px;
+=======
+    margin-top: 56px;
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
 }
 
 .carousel-img {
@@ -79,12 +100,15 @@ body {
     text-shadow: 2px 2px 8px #000;
 }
 
+<<<<<<< HEAD
 .noircuisine {
     position: relative;
     top: 160px;
     right: 370px;
 }
 
+=======
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
 /* Títulos */
 .titulo {
     color: #d4af37;
@@ -204,6 +228,7 @@ body {
 
 /* Responsividade */
 @media (max-width: 768px) {
+<<<<<<< HEAD
     .logo-navbar {
         height: 60px;
     }
@@ -212,6 +237,8 @@ body {
         margin-top: 75px;
     }
 
+=======
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
     .carousel-img {
         height: 380px;
     }
@@ -229,6 +256,7 @@ body {
     }
 
     .pagina-interna {
+<<<<<<< HEAD
         padding-top: 110px;
     }
 }
@@ -244,5 +272,8 @@ body {
 
     .nav-link {
         margin-left: 0;
+=======
+        padding-top: 100px;
+>>>>>>> fc848b67e5de2a9e4e45f8012e55d37441ba8cf4
     }
 }
