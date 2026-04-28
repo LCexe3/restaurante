@@ -43,8 +43,9 @@ body {
 /* Menu */
 .nav-link {
     color: #f1f1f1 !important;
-    margin-left: 10px;
+    margin-left: 17px;
     font-weight: 500;
+    font-size: 25px;
 }
 
 .nav-link:hover,
